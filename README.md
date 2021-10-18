@@ -1,5 +1,5 @@
 # android-blockchain-wallet
-This repository is a custom blockchain wallet built in an android app based on Ethereum with Web3j
+This repository is a custom blockchain wallet built in an android app based on Ethereum with Web3j and Infura
 
 1- Firstly, you have to create a wallet, your address will be shown below
 
